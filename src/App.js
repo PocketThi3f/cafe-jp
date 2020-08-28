@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
+import ReactDOM from 'react-dom';
 import './App.scss';
 
 class App extends Component {
-  return (
-    <div className=>
-      <p>I am working!</p>
-    </div>
-  )
+  render() {
+    return (
+      
+    )
+  }
 }
 
 export default App;
