@@ -1,11 +1,15 @@
 import React, { Component } from 'react';
 import Header from './containers/Header/Header';
+import ImagePanel from './components/ImagePanel/ImagePanel';
 import './App.scss';
 
 class App extends Component {
   render() {
     return (
-      <Header />
+      <div>
+        <Header />
+        <ImagePanel />
+      </div>
     )
   }
 }
