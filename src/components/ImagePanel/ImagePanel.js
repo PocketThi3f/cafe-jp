@@ -3,6 +3,6 @@ import cafeImg from '../../assets/images/city-cafe.jpg';
 
 export default class ImagePanel extends Component {
     render() {
-        return <img src={cafeImg} alt="cafe table"/>;
+        return <img className="cafe-image" src={cafeImg} alt="cafe table"/>;
     }
 }
