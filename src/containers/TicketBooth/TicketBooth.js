@@ -8,7 +8,11 @@ import Ticket from './Ticket/Ticket';
 export default class TicketBooth extends Component {
     render() {
         return (
-            <Ticket />
+            <div className="ticket-booth">
+                <h2>Click Below to Start Order!</h2>
+                <button id="ticket-button" type="submit">Start Order</button>
+                <Ticket />
+            </div>
         )
     }
 }

@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import './Ticket.scss';
 
-export default class TicketBooth extends Component {
+export default class Ticket extends Component {
     render() {
         return (
-            <div>
+            <div className="ticket-status">
                 <p>This ticket will update you on the status of your order.</p>
                 <p>Approximate wait time...</p>
                 <strong><p>5 minutes</p></strong>

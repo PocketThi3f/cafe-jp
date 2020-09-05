@@ -4,7 +4,7 @@ import './Header.scss';
 export default class Header extends Component {
     render() {
         return (
-            <div className="Header">
+            <div className="header">
                 <div className="nav">
                     <div className="nav-item">Home</div>
                     <div className="nav-item">Order Status</div>
