@@ -1,1 +1,15 @@
 // This is the style sheet for Footer
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.footer-item {
+    padding: 0.5em;
+}
+
+.footer-item:hover {
+    
+}

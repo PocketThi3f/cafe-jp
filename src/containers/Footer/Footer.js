@@ -5,9 +5,8 @@ export default class Footer extends Component {
     render() {
         return (
             <div className="footer">
-                <p>Social Links</p>
-                <div className="footer-item">LinkedIn</div>
-                <div className="footer-item">Github</div>
+                <p className="footer-item">LinkedIn</p>
+                <p className="footer-item">Github</p>
             </div>
         )
     }
