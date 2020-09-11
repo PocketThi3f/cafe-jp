@@ -3,10 +3,22 @@
 .cafe-image {
     display: flex;
     border: 1px black solid;
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 img {
     object-fit: cover;
     width: 100%;
     height: 100%;
+}
+
+/* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
+@media only screen and (max-device-width: 1366px) {
+    .cafe-image {
+      background-attachment: scroll;
+    }
 }
