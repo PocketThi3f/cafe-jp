@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 // Container Imports
 import Header from './containers/Header/Header';
-import ImagePanel from './components/ImagePanel/ImagePanel';
+import Image from './components/Image/Image';
 import Clock from './containers/ClockPanel/ClockPanel';
 import TicketBooth from './containers/TicketBooth/TicketBooth';
 import Footer from './containers/Footer/Footer';
@@ -15,7 +15,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
-        <ImagePanel />
+        <Image />
         <Clock />
         <TicketBooth />
         <Footer />
