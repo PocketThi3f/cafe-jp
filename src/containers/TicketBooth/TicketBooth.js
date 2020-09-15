@@ -10,7 +10,7 @@ export default class TicketBooth extends Component {
         return (
             <div className="ticket-booth">
                 <h2>Click Below to Start Order!</h2>
-                <button id="ticket-button" type="submit">Start Order</button>
+                <button id="ticket-btn" type="submit">Start Order</button>
                 <Ticket />
             </div>
         )
