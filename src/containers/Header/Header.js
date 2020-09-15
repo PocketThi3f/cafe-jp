@@ -10,11 +10,6 @@ export default class Header extends Component {
                     <div className="nav-item">Order Status</div>
                     <div className="nav-item">Ticket Booth</div>
                 </div>
-                <div className="Intro">
-                    <h1>Welcome to Café JP</h1>
-                    <p>We are currently:</p>
-                    <h2>OPEN!</h2>
-                </div>
             </div>
         )
     }

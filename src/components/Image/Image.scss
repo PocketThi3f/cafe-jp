@@ -1,7 +1,7 @@
 // This is the style sheet for ImagePanel 
 
 .cafe-image {
-    display: flex;
+    position: relative;
     border: 1px black solid;
     height: 100%;
     background-attachment: fixed;
@@ -14,6 +14,13 @@ img {
     object-fit: cover;
     width: 100%;
     height: 100%;
+}
+
+.intro-blurb {
+    position: absolute;
+    top: 300;
+    left: 0;
+    width: 100%;
 }
 
 /* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
