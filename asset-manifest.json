@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cafe-jp/static/css/main.7d7aa9f1.chunk.css",
+    "main.js": "/cafe-jp/static/js/main.65357922.chunk.js",
+    "main.js.map": "/cafe-jp/static/js/main.65357922.chunk.js.map",
+    "runtime-main.js": "/cafe-jp/static/js/runtime-main.2c9de972.js",
+    "runtime-main.js.map": "/cafe-jp/static/js/runtime-main.2c9de972.js.map",
+    "static/js/2.b0b7b4f5.chunk.js": "/cafe-jp/static/js/2.b0b7b4f5.chunk.js",
+    "static/js/2.b0b7b4f5.chunk.js.map": "/cafe-jp/static/js/2.b0b7b4f5.chunk.js.map",
+    "index.html": "/cafe-jp/index.html",
+    "precache-manifest.2eee949f2437bcaaeec819d00b3cbc42.js": "/cafe-jp/precache-manifest.2eee949f2437bcaaeec819d00b3cbc42.js",
+    "service-worker.js": "/cafe-jp/service-worker.js",
+    "static/css/main.7d7aa9f1.chunk.css.map": "/cafe-jp/static/css/main.7d7aa9f1.chunk.css.map",
+    "static/js/2.b0b7b4f5.chunk.js.LICENSE.txt": "/cafe-jp/static/js/2.b0b7b4f5.chunk.js.LICENSE.txt",
+    "static/media/city-cafe.jpg": "/cafe-jp/static/media/city-cafe.74328da4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c9de972.js",
+    "static/js/2.b0b7b4f5.chunk.js",
+    "static/css/main.7d7aa9f1.chunk.css",
+    "static/js/main.65357922.chunk.js"
+  ]
+}
